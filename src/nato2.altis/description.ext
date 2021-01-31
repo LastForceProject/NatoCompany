@@ -443,22 +443,3 @@ class CfgClients {
 	#include "spawner_config.hpp" 
     };
 };
-class CfgRemoteExec
-{
-	// List of script functions allowed to be sent from client via remoteExec
-	class Functions
-	{
-		// States remoteExec: 0-off, 1-enabled, taking into account the white list, 2-enabled, however, ignoring whitelists (by default because of backwards compatibility)
-		mode = 2;
-		// The ability to send jeep messages: 0-disabled, 1-enabled (default)
-		jip = 1;
-
-		class vcm_serverask { allowedTargets = 0;jip = 1; };
-		class VCM_PublicScript { allowedTargets = 0;jip = 1; };
-		class BIS_fnc_debugConsoleExec { allowedTargets = 0;jip = 1; };
-		class SpawnScript { allowedTargets = 0;jip = 1; };
-		class enableSimulationGlobal { allowedTargets = 0;jip = 1; };
-		class VCM_fnc_KnowAbout { allowedTargets = 0;jip = 1; };
-		class ASN_fnc_controlPanel { allowedTargets = 2;};
-	};
-};

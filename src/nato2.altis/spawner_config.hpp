@@ -57,61 +57,65 @@ class MainSpawn
 		"M1A2 SEPv1d",
 		"rhsusf_m1a2sep1d_usarmy",
 		"land_count_spawn_1",
-		6
+		"rhsusf_editorpreviews/data/",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_m1a2sep1d_usarmy.paa"
 		},
 		{
 		"M2A2",
 		"RHS_M2A2",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_2",
+		6,
+		"/rhsusf_editorpreviews/data/RHS_M2A2.paa"
 		},
 		{
-		"M1126",
+		"M1126 Stryker M2 Desert",
 		"rhsusf_stryker_m1126_m2_d",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_3",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_stryker_m1126_m2_d.paa"
 		},
 		{
-		"m1132",
+		"M1132 Stryker M2 Desert",
 		"rhsusf_stryker_m1132_m2_d",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_4",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_stryker_m1132_m2_d.paa"
 		},
 		{
-		"M1129",
-		"CUP_B_M1129_MC_MK19_Desert",
-		"land_count_spawn_1",
-		6
-		},
-		{
-		"Baggy",
+		"MRZR4 Desert",
 		"rhsusf_mrzr4_d",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_5",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_mrzr4_d.paa"
 		},
 		{
-		"M998",
+		"M998 Desert 4DR",
 		"rhsusf_m998_d_4dr",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_6",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_m998_d_4dr.paa"
 		},
 		{
-		"M1025 M2",
+		"M1025 M2 Desert",
 		"rhsusf_m1025_d_m2",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_7",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_m1025_d_m2.paa"
 		},
 		{
-		"M1025",
+		"M1025 Desert",
 		"rhsusf_m1025_d",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_8",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_m1025_d.paa"
 		},
 		{
-		"M1078A1P2",
+		"M1078A1P2 M2 Desert",
 		"rhsusf_M1078A1P2_B_M2_D_fmtv_usarmy",
-		"land_count_spawn_1",
-		6
+		"land_count_spawn_9",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_M1078A1P2_B_M2_D_fmtv_usarmy.paa"
 		}
 	};
 	spawnpoints[] = 
@@ -149,85 +153,92 @@ class AirSpawn
 		"MH60S",
 		"vtx_MH60S_Pylons",
 		"air_count_spawn_1",
-		6
+		6,
+		"/vtx_MH60S/data/Preview/vtx_MH60S_Pylons.png"
 		},
 		{
 		"AH1Z",
 		"RHS_AH1Z_wd",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_2",
+		6,
+		"/rhsusf_editorpreviews/data/RHS_AH1Z_wd.paa"
 		},
 		{
 		"CH53E",
 		"rhsusf_CH53E_USMC",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_3",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_CH53E_USMC.paa"
 		},
 		{
 		"CH53E Cargo",
 		"rhsusf_CH53e_USMC_cargo",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_4",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_CH53E_USMC_D.paa"
 		},
 		{
 		"CH53E GAU21",
 		"rhsusf_CH53E_USMC_GAU21",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_5",
+		6,
+		"/rhsusf_editorpreviews/data/rhsusf_CH53E_USMC_D.paa"
 		},
 		{
 		"EA18G",
 		"FLAN_EA18G",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_6",
+		6,
+		"/FLAN_EA18G/data/preview/FLAN_EA18G.png"
 		},
 		{
-		"FA18F",
-		"JS_JC_FA18F",
-		"air_count_spawn_1",
-		6
+		"FA18E",
+		"JS_JC_FA18E",
+		"air_count_spawn_7",
+		6,
+		"/js_jc_fa18/previews/JS_JC_FA18E.jpg"
 		},
 		{
 		"MH605",
 		"vtx_MH60S",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_8",
+		6,
+		"/vtx_MH60S/data/Preview/vtx_MH60S.png"
 		},
 		{
-		"MH605 GAU21L",
+		"MH60S GAU21L",
 		"vtx_MH60S_GAU21L",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_9",
+		6,
+		"/vtx_MH60S/data/Preview/vtx_MH60S.png"
 		},
 		{
 		"MH605 Pylons GAU21L",
 		"vtx_MH60S_Pylons_GAU21L",
-		"air_count_spawn_1",
-		6
-		},
-		{
-		"MQ81U",
-		"FIR_MQ81U_DarkGreyCamo",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_10",
+		6,
+		"/vtx_MH60S/data/Preview/vtx_MH60S.png"
 		},
 		{
 		"MV22",
 		"CUP_B_MV22_USMC",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_11",
+		6,
+		"/cup_airvehicles_mv22/data/preview/CUP_B_MV22_USMC.jpg"
 		},
 		{
 		"MV22 VIV",
 		"CUP_B_MV22_VIV_USMC",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_12",
+		6,
+		"/cup_airvehicles_mv22/data/preview/CUP_B_MV22_USMC.jpg"
 		},
 		{
 		"MV22 Ramp Gun",
 		"CUP_B_MV22_USMC_RAMPGUN",
-		"air_count_spawn_1",
-		6
+		"air_count_spawn_13",
+		6,
+		"/cup_airvehicles_mv22/data/preview/CUP_B_MV22_USMC_RAMPGUN.jpg"
 		}
 	};
 	spawnpoints[] = 

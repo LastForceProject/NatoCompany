@@ -7,7 +7,7 @@ _onScreenTime = 5;
 
 sleep 15; //Время до начала титров
 
-_role1 = "Добро пожаловать на NATO Company";
+_role1 = "Добро пожаловать на NC: Escalation";
 _role1names = [profileName];
 _role2 = "Игровой проект Last Force Project";
 _role2names = ["Thanks: KapayJI, Host, Flin."];
