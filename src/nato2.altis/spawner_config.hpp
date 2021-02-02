@@ -57,61 +57,145 @@ class MainSpawn
 		"M1A2 SEPv1d",
 		"rhsusf_m1a2sep1d_usarmy",
 		"land_count_spawn_1",
-		6
+		4
+		},
+		{
+		"M1A1FEP",
+		"rhsusf_m1a1fep_d",
+		"land_count_spawn_2",
+		4
+		},
+		{
+		"M1A1AIM",
+		"rhsusf_m1a1aimd_usarmy",
+		"land_count_spawn_3",
+		4
 		},
 		{
 		"M2A2",
 		"RHS_M2A2",
-		"land_count_spawn_2",
-		6
+		"land_count_spawn_4",
+		4
 		},
 		{
-		"M1126 Stryker M2 Desert",
+		"M2A3",
+		"RHS_M2A3",
+		"land_count_spawn_5",
+		4
+		},
+		{
+		"M6A2",
+		"RHS_M6",
+		"land_count_spawn_6",
+		4
+		},
+		{
+		"M113A3 (MEV)",
+		"rhsusf_m113d_usarmy_medical",
+		"land_count_spawn_7",
+		4
+		},
+		{
+		"M113A3 (M2)",
+		"rhsusf_m113d_usarmy",
+		"land_count_spawn_8",
+		4
+		},
+		{
+		"M113A3 (Mk19)",
+		"rhsusf_m113d_usarmy_MK19",
+		"land_count_spawn_9",
+		4
+		},
+		{
+		"M1126 (Mk19)",
+		"rhsusf_stryker_m1126_mk19_d",
+		"land_count_spawn_10",
+		4
+		},
+		{
+		"M1126 (M2)",
 		"rhsusf_stryker_m1126_m2_d",
-		"land_count_spawn_3",
-		6
+		"land_count_spawn_11",
+		4
+		},
+		{
+		"M1126 MGS",
+		"CUP_B_M1128_MGS_Desert",
+		"land_count_spawn_12",
+		4
 		},
 		{
 		"M1132 Stryker M2 Desert",
 		"rhsusf_stryker_m1132_m2_d",
-		"land_count_spawn_4",
-		6
+		"land_count_spawn_13",
+		4
 		},
 		{
-		"MRZR4 Desert",
-		"rhsusf_mrzr4_d",
-		"land_count_spawn_5",
-		6
+		"M1133 MEV",
+		"CUP_B_M1133_MEV_Desert",
+		"land_count_spawn_14",
+		4
 		},
 		{
-		"M998 Desert 4DR",
+		"M1134",
+		"rhsusf_stryker_m1134_d",
+		"land_count_spawn_15",
+		4
+		},
+		{
+		"LAV-25A1",
+		"CUP_B_LAV25M240_desert_USMC",
+		"land_count_spawn_16",
+		4
+		},
+		{
+		"M998 4DR",
 		"rhsusf_m998_d_4dr",
-		"land_count_spawn_6",
+		"land_count_spawn_17",
 		6
 		},
 		{
-		"M1025 M2 Desert",
+		"M1025 M2",
 		"rhsusf_m1025_d_m2",
-		"land_count_spawn_7",
+		"land_count_spawn_18",
 		6
 		},
 		{
-		"M1025 Desert",
+		"M1025",
 		"rhsusf_m1025_d",
-		"land_count_spawn_8",
+		"land_count_spawn_19",
 		6
 		},
 		{
 		"M1078A1P2 M2 Desert",
 		"rhsusf_M1078A1P2_B_M2_D_fmtv_usarmy",
-		"land_count_spawn_9",
+		"land_count_spawn_20",
 		6
 		},
 		{
-			"Dingo Bundeswher Desert",
-			"CUP_B_Dingo_GER_Des",
-			"land_count_spawn_10",
-			4
+		"MRZR4 (SF)",
+		"rhsusf_mrzr4_d",
+		"land_count_spawn_21",
+		4
+		},
+		{
+		"M1165A1 (SF)",
+		"rhsusf_m1165_asv_m240_usaf_d",
+		"land_count_spawn_22",
+		4
+		},
+		{
+		"Dingo Bundeswher (SF)",
+		"CUP_B_Dingo_GER_Des",
+		"land_count_spawn_23",
+		4
+		},
+		{
+		"Jackal L2A1 (SF)",
+		"CUP_B_Jackal2_L2A1_GB_D",
+		"land_count_spawn_24",
+		4
 		}
 	};
 	spawnpoints[] = 
