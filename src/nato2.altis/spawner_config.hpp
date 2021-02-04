@@ -196,6 +196,30 @@ class MainSpawn
 		"CUP_B_Jackal2_L2A1_GB_D",
 		"land_count_spawn_24",
 		4
+		},
+		{
+		"M1232 (M2)",
+		"rhsusf_M1232_M2_usarmy_d",
+		"land_count_spawn_25",
+		6
+		},
+		{
+		"M1232 (Mk19)",
+		"rhsusf_M1232_MK19_usarmy_d",
+		"land_count_spawn_26",
+		6
+		},
+		{
+		"M1240A1 (M2)",
+		"rhsusf_m1240a1_m2_uik_usarmy_d",
+		"land_count_spawn_27",
+		6
+		},
+		{
+		"M1240A1 (Mk19)",
+		"rhsusf_m1240a1_mk19_uik_usarmy_d",
+		"land_count_spawn_28",
+		6
 		}
 	};
 	spawnpoints[] = 
