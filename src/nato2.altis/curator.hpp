@@ -14,8 +14,6 @@ class Curators
 		,"76561198295847201"//white (Event)
 		,"76561198053678180"//Leo(Event)
 		,"76561198391711601"//grif(Event)
-		,"76561198024177091"//Lem(Event)
-                ,"76561198209489483"//PO(Event)
                 ,"76561199020692739"//Blair(Event)
                 ,"76561198008400185"//Bombaster(Event)
                 ,"76561198053391997"//Vonsheer(TS_event)
