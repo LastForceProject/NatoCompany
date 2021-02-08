@@ -19,7 +19,10 @@ class Curators
                 ,"76561199020692739"//Blair(Event)
                 ,"76561198008400185"//Bombaster(Event)
                 ,"76561198053391997"//Vonsheer(TS_event)
-                ,"76561198187905489"//Flammeus(Event)
+                ,"76561198187905489"//Flammeus(cur_Event)
+                ,"76561198804362944"//Hutson(Event)
+                ,"76561198416727812"//Flar (Event)
+                ,"76561198364167776"//Onnarhoketay (Event)
 		
 };
 };
